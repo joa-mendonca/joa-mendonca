@@ -7,10 +7,10 @@
   <row>
     <td>
      <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=geessyca&layout=compact&theme=react'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=joa-mendonca&layout=compact&theme=react'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=geessyca&show_icons=true&theme=react'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=joa-mendonca&show_icons=true&theme=react'>
     </td>
   </row>
 </table> 
