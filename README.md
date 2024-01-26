@@ -7,13 +7,14 @@
   <row>
     <td>
      <!-- Card -->
-      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=joa-mendonca&layout=compact&theme=react'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=joa-mendonca&show_icons=true&theme=dark'>
     </td>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=joa-mendonca&show_icons=true&theme=react'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=joa-mendonca&layout=compact&theme=dark'>
     </td>
   </row>
 </table> 
+
 ## Tecnologias que eu uso no meu dia
 <div>
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
