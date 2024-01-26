@@ -1,7 +1,5 @@
 ### Olá! Eu sou o João Mendonça 👋
-##
 
-##
 <table align="right">
   <row>
     <td>
