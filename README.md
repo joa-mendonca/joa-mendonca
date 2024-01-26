@@ -3,11 +3,17 @@
 <a href = "mailto:joaok81mendonca@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jao-mendonca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ##
-<div>
-  <a href="https://beacons.ai/joa-mendonca">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joa-mendonca&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa-mendonca&layout=compact&langs_count=16&theme=dark">
-  </div>
+<table align="right">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=geessyca&layout=compact&theme=react'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=geessyca&show_icons=true&theme=react'>
+    </td>
+  </row>
+</table> 
 ## Tecnologias que eu uso no meu dia
 <div>
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
